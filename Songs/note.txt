@@ -1,1 +1,0 @@
-If you see this, the way to set this up is to: fill this file with .mid files. Simple as that. I use the MAESTRO dataset.
